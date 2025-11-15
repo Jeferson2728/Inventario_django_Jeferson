@@ -1,0 +1,23 @@
+#  PYTHON 
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# DJANGO 
+db.sqlite3
+local_settings.py
+media/
+staticfiles/
+
+#  Entorno virtual 
+venv/
+env/
+ENV/
+
+# VSCode 
+.vscode/
+
+#  Windows 
+Thumbs.db
+*.log
